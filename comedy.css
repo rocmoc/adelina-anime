@@ -1,0 +1,63 @@
+body {
+    background-image: url(img/haikyuub.jpg);background-repeat: repeat-x; background-attachment: fixed;
+} 
+.antet{
+    background-image:url("img/haikyuuh.jpg");
+    text-align: center; vertical-align: middle; height: auto; box-align: center;
+    font-size:150px; 
+    height: 230px;
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-shadow: black 2px 2px 2px; }
+
+.vertical-menu {
+    width: 180px; 
+    margin-left: 200px;
+    margin-top: 50px;
+    border-style: double; border-color: white;
+    position: absolute;
+}
+
+.vertical-menu a {
+    background-color: #ccc;
+    color: rgb(255, 255, 255); 
+    display: block; 
+    padding: 12px;
+    text-decoration: none; 
+    text-align: center;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+    text-align: right;
+}
+
+.vertical-menu a.active {
+    background-color: #daad83;
+    color: white;
+    text-align: center;
+}
+.footer {
+    text-align: center; bottom: 0px; background-color: #daad83; width: 100%;
+    color:white; position:fixed; font-family:Georgia, 'Times New Roman', Times, serif
+}
+hr {
+    width: 80%;
+    height: 2px;
+    color:#daad83;
+}
+.main {
+    background-color:#daad83 ; margin-left: 413px; margin-right: 312px; 
+    color:white; font-size:20px; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ border-style: double; border-color: black; text-align: center;
+}
+.main1 {
+   text-align: right;
+
+}
+.main2 {
+    text-align: left;
+
+ 
+ }
